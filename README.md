@@ -1,5 +1,5 @@
 # SISTEMA ELETRÔNICO PARA AQUISIÇÃO DE IMAGENS DAS PALHETAS DE OVITRAMPA
-
+<p align="justify">
 O Aedes Aegypti é um dos principais vetores que preocupam a saúde pública mundialpela
 rápida proliferação e o número de doenças que transmite. No Brasil, seu monitoramento é
 feito por agentes de combate à endemias. Para auxiliar na prevenção são utilizadas, em alguns
@@ -16,6 +16,7 @@ foram obtidas algumas fotografias com visualização nítida dos ovos, sendo pos
 comparação com as imagens obtidas manualmente. Contudo, como perspectiva futura esperase
 que haja um melhoramento na qualidade das imagens e, em seguida, o processamento
 destas no próprio microcomputador, contabilizando os ovos existentes.
+</p>
 
 # Funcionamento do projeto
 
@@ -27,16 +28,13 @@ destas no próprio microcomputador, contabilizando os ovos existentes.
 
 # Montagem final do hardware
 
-<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixacima.png"></p>
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixacima.png" width="400px"></p>
 
-<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixalado.jpeg"></p>
-
-
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixalado.jpeg" width="400px"></p>
 
 # Dimensões da palheta
 
 <p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/especificacoes.png"></p>
-
 
 # Teste da lente macro
 
