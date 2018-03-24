@@ -1,0 +1,2 @@
+# ovitrampa
+Repositório do projeto "SISTEMA ELETRÔNICO PARA AQUISIÇÃO DE IMAGENS DAS PALHETAS DE OVITRAMPA".
