@@ -28,9 +28,9 @@ destas no próprio microcomputador, contabilizando os ovos existentes.
 
 # Montagem final do hardware
 
-<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixacima.png" width="400px"></p>
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixacima.png" width="200px"></p>
 
-<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixalado.jpeg" width="400px"></p>
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixalado.jpeg" width="200px"></p>
 
 # Dimensões da palheta
 
