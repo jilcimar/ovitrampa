@@ -16,3 +16,47 @@ foram obtidas algumas fotografias com visualização nítida dos ovos, sendo pos
 comparação com as imagens obtidas manualmente. Contudo, como perspectiva futura esperase
 que haja um melhoramento na qualidade das imagens e, em seguida, o processamento
 destas no próprio microcomputador, contabilizando os ovos existentes.
+
+# Funcionamento do projeto
+
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/fluxograma.png"></p>
+
+# Especificações do hardware (caixa)
+
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/esquema.png"></p>
+
+# Montagem final do hardware
+
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixacima.png"></p>
+
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/caixalado.jpeg"></p>
+
+
+
+# Dimensões da palheta
+
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/especificacoes.png"></p>
+
+
+# Teste da lente macro
+
+> Esta foto é o resultado da utilização da lente macro acoplada a câmera.
+
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/fotolentemacro.png"></p>
+
+# Resultado das imagens obtidas pelo sistema
+
+ > Sequência de fotos dos dois lados da palheta
+
+<p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/palheta.png"></p>
+
+# Autores
+
+- Jilcimar da silva Fernandes
+- Larisse Gabrila Ferreira
+
+# Orientadores
+
+ - Manoel do Bonfim (Orientador)
+ - Ayla Márcia (Co-orientadora)
+ - Demétrios Coutinho (Co-orientador)
