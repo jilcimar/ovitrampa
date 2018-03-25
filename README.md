@@ -48,6 +48,11 @@ destas no próprio microcomputador, contabilizando os ovos existentes.
 
 <p align="center"><img src="https://github.com/jilcimar/ovitrampa/blob/master/imagens/palheta.png"></p>
 
+# Video demonstração
+> Video do funcionamento do sistema no Youtube
+
+<a href="https://youtu.be/V5kwEO5Jl6U">Youtube</a>
+
 # Autores
 
 - Jilcimar da silva Fernandes
